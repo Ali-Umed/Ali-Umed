@@ -6,7 +6,7 @@
 <img align="right" alt='coding' width=300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" >
 
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currentlly learning **React js**
 
 -  💬 Ask me about **java script , react js**
 
