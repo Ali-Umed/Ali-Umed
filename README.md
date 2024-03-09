@@ -1,4 +1,4 @@
-
+[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220416200936/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png)]
 <h1 align="center">salam u alaikwm , 👋 I'm Ali umed </h1>
 <h3 align="center">A frontend developer from Kurdiatan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-umed&label=Profile%20views&color=0e75b6&style=flat" alt="ali-umed" /> </p>
