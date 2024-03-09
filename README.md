@@ -8,10 +8,11 @@
 <h3 align="left"> See my projects in  Social media </h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ali-umed-076854286/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+  
   <a href="https://www.facebook.com/ali.umed.376?mibextid=ZbWKwL" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://www.instagram.com/ali.umed99?igsh=dWQ5eThyMGRmM2Ju" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@Ali_Umed" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ali-umed-076854286/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Readme:</h3>
