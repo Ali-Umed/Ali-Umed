@@ -6,11 +6,12 @@
 
 - 🌱  I’m currentlly learning **React js**
 
--  💬 Ask me about **java script ,  react js**
+-  💬 Ask me about **  react js node js, flutter, typescript, java script **
 
-- 📫 How to reach me **aliumed844@gmail.com**
+- 📫 Contact with me **aliumed844@gmail.com**
 
-<h3 align="left">Contact with me :</h3>
+<!-- <h3 align="left">Contact with me :</h3> -->
+
 <!-- <p align="left">
 <a href="https://fb.com/ali umed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali umed" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ali shexbzine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ali shexbzine" height="30" width="40" /></a>
