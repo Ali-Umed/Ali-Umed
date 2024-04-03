@@ -23,11 +23,9 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ali-umed&show_icons=true&count_private=true&theme=moltack&hide_border=true&include_all_commits=false&text_bold=true&hide=contribs">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-umed&layout=compact&hide_border=true&theme=moltack&langs_count=10&hide=jupyter%20notebook,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=ali-umed&theme=moltack&hide_border=true">
- 
+
 </p> 
  
-<img src="https://github.com/ali-umed?tab=overview" width="100%" height="" style="display: block"/>
-
 
 
 <!--[snake gif](https://github.com/ali-Umed/ali-umed/blob/output/github-contribution-grid-snake.svg) -->
