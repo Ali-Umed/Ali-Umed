@@ -1,4 +1,4 @@
-<h1 align="center">salam u alaikwm , 👋 I'm Ali umed </h1>
+<h1 align="center">salam u alaikwm👋  </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-umed&label=Profile%20views&color=orange&style=plastic" alt="ali-umed" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-umed" alt="ali-umed" /></a> </p>
 <!-- <img align="right" alt='coding' width=300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" > -->
